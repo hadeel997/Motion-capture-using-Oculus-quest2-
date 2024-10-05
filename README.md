@@ -45,7 +45,7 @@ Make sure you have Visual Studio installed properly:
 
 #### Some result were captured with:
 
-<img src='imgs/daylightGAN_v1.gif' align="left" width=1024>
+<img src='imgs/face capture_lipsync.gif' align="left" width=1024>
 &nbsp;
 
 
