@@ -44,6 +44,7 @@ Make sure you have Visual Studio installed properly:
     - Depending on your machine, the build may take awhile to complete.
 
 #### Some result were captured with:
+
 <img src='imgs/daylightGAN_v1.gif' align="left" width=1024>
 &nbsp;
 
