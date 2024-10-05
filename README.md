@@ -3,23 +3,9 @@
 Mocap Animation is a package that uses OpenXR’s tracking APIs to expose Meta Quest Pro’s Body Tracking (BT), Eye Tracking (ET), and Face Tracking (FT) capabilities.
 With this package, developers can leverage tracking to populate VR environments with custom avatars that bring the expressiveness of users into the virtual environments that they create.
 
-## Documentation
-The documentation for this package can be found [here](https://developer.oculus.com/documentation/unreal/unreal-movement-sample/).
-The API reference for this package can be found [here](https://developer.oculus.com/documentation/unreal/unreal-movement-implementation/).
-
 ## How to Use
 
 ### Load the project
-
-First, ensure you have Git LFS installed by running this command:
-```sh
-git lfs install
-```
-
-Then, clone this repo using the "Code" button above, or this command:
-```sh
-git clone https://github.com/oculus-samples/Unreal-Movement
-```
 
 ### Launch the project in the Unreal Editor using one of the following options.
 
