@@ -43,5 +43,10 @@ Make sure you have Visual Studio installed properly:
 5. Hit `F5` to build and debug the project (and the engine).
     - Depending on your machine, the build may take awhile to complete.
 
+#### Some result were captured with:
+<img src='imgs/daylightGAN_v1.gif' align="left" width=1024>
+&nbsp;
+
+
 # Licenses
 The Unreal-Movement is released under the [Oculus SDK License](https://github.com/oculus-samples/Unreal-Movement/blob/main/LICENSE). The MIT License applies to only certain, clearly marked documents. If an individual file does not indicate which license it is subject to, then the Oculus License applies.
