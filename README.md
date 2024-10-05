@@ -1,6 +1,6 @@
-# Movement Sample
+# Mocap Animation 
 
-Unreal-Movement is a package that uses OpenXR’s tracking APIs to expose Meta Quest Pro’s Body Tracking (BT), Eye Tracking (ET), and Face Tracking (FT) capabilities.
+Mocap Animation is a package that uses OpenXR’s tracking APIs to expose Meta Quest Pro’s Body Tracking (BT), Eye Tracking (ET), and Face Tracking (FT) capabilities.
 With this package, developers can leverage tracking to populate VR environments with custom avatars that bring the expressiveness of users into the virtual environments that they create.
 
 ## Documentation
